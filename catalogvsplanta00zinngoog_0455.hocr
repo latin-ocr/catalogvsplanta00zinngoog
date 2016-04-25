@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogvsplanta00zinngoog_0455.png"; bbox 0 0 2250 4064; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 46 133 682 216">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 46 133 682 216">
+     <span class='ocr_line' id='line_1_1' title="bbox 46 133 682 216; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 46 162 113 212; x_wconf 59' lang='grc' dir='ltr'><strong><em>,ἸΜ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 147 146 313 205; x_wconf 53' lang='grc' dir='ltr'><strong><em>,ΞὸνῚῚΊνιόι</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 344 135 426 207; x_wconf 43' lang='lat' dir='ltr'><strong><em>usn.</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 459 133 549 216; x_wconf 51' lang='lat'><strong><em>(¹152,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 580 152 601 205; x_wconf 69' lang='lat' dir='ltr'><strong><em>s·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 622 161 682 214; x_wconf 60' lang='lat' dir='ltr'><strong><em>‘J&#39;-</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 35 280 952 393">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 35 280 952 393">
+     <span class='ocr_line' id='line_1_2' title="bbox 35 280 952 393; baseline -0.005 -36"><span class='ocrx_word' id='word_1_7' title='bbox 35 317 153 389; x_wconf 57' lang='lat' dir='ltr'><strong><em>ew.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 180 297 211 359; x_wconf 54' lang='grc' dir='ltr'><strong><em>τε</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 234 285 339 370; x_wconf 57' lang='lat' dir='ltr'><strong><em>‹cst-J</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 427 280 849 393; x_wconf 56' lang='lat' dir='ltr'><strong><em>‹&#39;···&#39;³⁴12{2J·Luffss</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 919 370 952 389; x_wconf 47' lang='lat'><strong><em>⁹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1130 4064">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1130 4064">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1130 4064; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1130 4064; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
